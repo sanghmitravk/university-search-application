@@ -1,0 +1,10 @@
+.University {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+input,
+select {
+  padding: 5px 10px;
+  margin-bottom: 10px;
+}
